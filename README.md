@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0162-find-peak-element](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-random-pick-with-weight](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1646-kth-missing-positive-number](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0162-find-peak-element) |
 | [0912-random-pick-with-weight](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1646-kth-missing-positive-number](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer

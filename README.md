@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0071-simplify-path](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Two Pointers

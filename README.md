@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0912-random-pick-with-weight](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0912-random-pick-with-weight) |
 ## Prefix Sum
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

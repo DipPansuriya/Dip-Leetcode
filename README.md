@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-random-pick-with-weight](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0912-random-pick-with-weight) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->

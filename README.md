@@ -27,8 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0014-longest-common-prefix) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->

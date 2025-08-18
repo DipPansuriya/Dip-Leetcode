@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0162-find-peak-element](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-random-pick-with-weight](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1646-kth-missing-positive-number](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -71,14 +74,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -102,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0050-powx-n) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DipPansuriya/Dip-Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
